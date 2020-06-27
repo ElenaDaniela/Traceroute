@@ -3,7 +3,6 @@ Traceroute este o metodă prin care putem urmări prin ce noduri (routere) trece
 
 ## 1. Traceroute
 
-Am implementat soluția iar aici este output-ul:
 
 ### Ruta către IP1
 
